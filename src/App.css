@@ -1,0 +1,57 @@
+body {
+  background-color: orange;
+  font-family: Tahoma, sans-serif;
+}
+
+.jj {
+  margin-top: 2em;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.App {
+  width: 50%;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.header {
+  font-size: 2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  color: black;
+  text-align: center;
+}
+
+
+a {
+  padding-left: 1em;
+  padding-left: 1em;
+	text-decoration:none;
+  color:#d2738a;
+  letter-spacing: 5px;
+}
+	
+a:link {
+	color:#d2738a;
+}
+	
+a:visited {
+	color:#d2738a;
+}
+	
+a:hover {
+	color:#d2738a;
+}
+	
+a:active {
+	color:#d2738a;
+}
+
+img {
+  width: 100%;
+}
+
+#play {
+  width: 100%;
+}
